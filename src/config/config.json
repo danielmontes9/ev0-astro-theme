@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "EV0 ",
+    "title": "Daniel Montes | Portfolio ",
     "base_url": "https://ev0.gndx.io",
     "base_path": "/",
     "favicon": "/favicon.png",
@@ -15,12 +15,12 @@
     "dark_mode": true
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
-    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "meta_author": "Daniel Montes @danielmontes9",
+    "meta_description": "I'm a passionate software developer with a focus on front-end technologies, specializing in Angular. Welcome to my portfolio—feel free to take a look around!"
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
+    "name": "Daniel Montes @danielmontes9",
     "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "bio": "I'm a passionate software developer with a focus on front-end technologies, specializing in Angular. Welcome to my portfolio—feel free to take a look around!"
   }
 }
