@@ -8,12 +8,12 @@ import { Image } from 'astro:assets';
 import config from '@config/config.json';
 import { slugify } from '@utils/slug';
 
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<'projects'>['data'];
 
 const { title, description, pubDate, heroImage, categories, tags } = Astro.props;
 ---
 
-<Base meta_title={title} description={description} image={heroImage} blogpost>
+<Base meta_title={title} description={description} image={heroImage} projectspost>
   <article>
     <div class="mb-8 block overflow-hidden rounded-lg">
       {

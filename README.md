@@ -104,7 +104,7 @@ The menu is configured in the `src/config/menu.json` file. This file contains th
   },
   {
     "name": "Blog",
-    "url": "/blog"
+    "url": "/projects"
   },
 ]
 ```
@@ -147,7 +147,7 @@ To add a new post, run the following command:
 npm run newpost
 ```
 
-Follow the instructions and this will generate a new markdown file in the `src/content/blog` directory. Edit the file to add your post content.
+Follow the instructions and this will generate a new markdown file in the `src/content/projects` directory. Edit the file to add your post content.
 
 ## 📂 Project Structure
 
